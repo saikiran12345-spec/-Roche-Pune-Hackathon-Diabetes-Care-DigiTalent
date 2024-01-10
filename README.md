@@ -1,2 +1,2 @@
-# -Roche-Pune-Hackathon-Diabetes-Care-DigiTalent
+# Roche-Pune-Hackathon-Diabetes-Care-DigiTalent
 Solution code for Roche Pune Hackathon
